@@ -42,5 +42,5 @@ For the **third visualization**, I chose a box plot because it highlights the an
 
 **Data Source**: The data used in this analysis was sourced from OECD. (https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2023)
 
-## Assignment 3&4: Critique by Design
+## [Assignment 3&4: Critique by Design](https://github.com/guyifan0418/visualization_portfolio/blob/main/marvel_box_office.md)
 ## Final project
