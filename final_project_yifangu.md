@@ -36,19 +36,23 @@ The project follows a clear narrative structure to guide the analysis:
 1. **Heatmap of Nighttime Crimes:**
    - Visualizing crime density in areas where there are more streetlights versus where there are fewer.
    - Key elements: Intensity of crime hotspots, time filters for before/after comparison.
-   - 
+     ![Heatmap - Crime Density](heatmap.png)
+     
 
 2. **Line Chart:**
    - Showing trends in nighttime crime rates before and after streetlight installation.
    - Key elements: Vertical marker for installation date, separated by city or neighborhood.
+     ![Line Chart - Crime Trends](line_chart.png)
 
 3. **Buffer Zone Map:**
    - Spatial analysis of crime incidents within a 100-meter radius of new streetlights.
    - Key elements: Buffer zones, crime density comparisons (before vs. after).
+     ![Buffer Zone Analysis](buffer_zone_map.png)
 
 4. **Choropleth Map:**
    - Overlaying demographic data with crime rates for additional context.
    - Key elements: Population density, socioeconomic factors.
+     ![Choropleth - Population vs Crime](choropleth.png)
 
 These sketches will help shape the story and visually support the findings.
 
