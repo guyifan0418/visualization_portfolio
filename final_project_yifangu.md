@@ -1,9 +1,9 @@
-# Final Project: Analyzing the Impact of Street Lighting on Urban Crime Patterns
+# Final Project: Installing More Streetlights to Reduce Crime
 
 ## 1. Outline
 
 ### High-Level Summary
-This project explores how the installation of new streetlights affects crime rates in urban areas. Using data from multiple cities, we aim to assess whether enhanced lighting correlates with reduced nighttime crime. By analyzing crime patterns before and after streetlight installations, this study provides data-driven insights for urban planning and public safety initiatives.
+This project explores how the installation of new streetlights affects crime rates in urban areas. Using data from multiple cities, I aim to assess whether enhanced lighting correlates with reduced nighttime crime. By analyzing crime patterns before and after streetlight installations, this study provides data-driven insights for urban planning and public safety initiatives, and calls for action at the end.
 
 ### Project Structure
 The project follows a clear narrative structure to guide the analysis:
@@ -34,8 +34,9 @@ The project follows a clear narrative structure to guide the analysis:
 
 ### Initial Sketches for Visualizations
 1. **Heatmap of Nighttime Crimes:**
-   - Visualizing crime density before and after streetlight installations.
+   - Visualizing crime density in areas where there are more streetlights versus where there are fewer.
    - Key elements: Intensity of crime hotspots, time filters for before/after comparison.
+   - 
 
 2. **Line Chart:**
    - Showing trends in nighttime crime rates before and after streetlight installation.
@@ -115,8 +116,8 @@ All datasets are publicly available through official portals. Links to datasets 
 
 ### Deliverables
 - An interactive map and dashboards in Tableau.
-- A report summarizing findings, visualizations, and policy recommendations.
-- All materials hosted on a publicly accessible GitHub repository.
+- A Shorthand presentation summarizing findings, visualizations, and policy recommendations. It will feature the visuals created in Tableau.
+- All materials hosted on this GitHub repository.
 
 ---
 
