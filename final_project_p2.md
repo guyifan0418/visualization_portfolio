@@ -5,38 +5,6 @@
 ### Storyboard Overview
 The story of this project explores the impact of streetlight installations on crime patterns in urban areas. The narrative guides readers through a data-driven journey, starting with the motivation behind the analysis, diving into the methodology, and concluding with findings and recommendations. The storyboard ensures that every data visualization aligns with the story and enhances its clarity.
 
-### Wireframes
-Below are the wireframes that represent the high-fidelity draft visualizations of the critical elements in the story:
-
-1. **Line Chart: Crime Trends Before and After Streetlight Installation**
-   - **Purpose:** Show the overall trend in crime incidents, highlighting the impact of the intervention.
-   - **Elements:** 
-     - X-axis: Time (Months)
-     - Y-axis: Crime Incidents
-     - Vertical Line: Indicates the date of streetlight installation
-   - [Embedded Visualization](images/line_chart.png)
-
-2. **Heatmap: Crime Density Before and After Streetlight Installation**
-   - **Purpose:** Compare the intensity of crime hotspots before and after streetlight interventions.
-   - **Elements:** 
-     - Left Panel: Heatmap for crime density before streetlight installation.
-     - Right Panel: Heatmap for crime density after streetlight installation.
-   - [Embedded Visualization](images/heatmap.png)
-
-3. **Buffer Zone Map: Spatial Analysis**
-   - **Purpose:** Analyze the density of crimes within a 100-meter radius of newly installed streetlights.
-   - **Elements:** 
-     - Scatterplot of crime locations
-     - Highlighted buffer zones around streetlights
-   - [Embedded Visualization](images/buffer_zone_map.png)
-
-4. **Choropleth Map: Population Density and Crime Rates**
-   - **Purpose:** Provide context by overlaying demographic data and crime rates across neighborhoods.
-   - **Elements:** 
-     - Population Density (Blue bars)
-     - Crime Rates (Red bars)
-   - [Embedded Visualization](images/choropleth.png)
-
 ---
 
 ## 2. Data Visualizations
@@ -49,7 +17,7 @@ Each data visualization has been created using mock data to illustrate its form 
 - **Choropleth Map:** Incorporates demographic context to address potential confounding variables.
 
 ### Sketches
-The sketches were refined into higher fidelity drafts using Tableau and Matplotlib. Key elements such as titles, annotations, legends, captions, and axis labels were included to ensure clarity and storytelling consistency.
+The sketches were refined into drafts using Tableau and Matplotlib. Key elements such as titles, annotations, legends, captions, and axis labels were included to ensure clarity and storytelling consistency.
 
 ---
 
@@ -105,21 +73,7 @@ Based on feedback, the following changes will be implemented:
 
 ---
 
-## 5. Moodboard and Personas (Optional)
-
-### Moodboard
-The moodboard includes:
-- Examples of effective visualizations for spatial and temporal analyses.
-- Themes for clean, minimalistic design with a focus on blue and red gradients to represent safety and danger.
-
-### Personas
-1. **Planner Paula:** Urban planner in her 30s, focused on infrastructure impact.
-2. **Analyst Andy:** Data analyst in his 20s, loves exploring stories through data.
-3. **Official Oliver:** City official in his 40s, interested in actionable insights.
-
----
-
-## 6. Updated Storyboard
+## 5. Updated Storyboard
 
 ### Revised Narrative Flow
 1. Introduction: Introduce the relationship between streetlights and crime.
@@ -132,17 +86,14 @@ The moodboard includes:
 
 ---
 
-## 7. GitHub Navigation
+## 6. GitHub Navigation
 
 The updated project repository includes:
 - **Markdown File:** `final_project_part2.md` with all required sections.
-- **Shorthand Draft Link:** [Shorthand](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/6S2vRbIyvZ#section-Guardians-of-the-Reef-H7UCPc5W15)]
-
-Navigation allows users to move between project components, including Part I and Part II.
-
+- **Shorthand Draft Link:** [Shorthand](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/6S2vRbIyvZ#section-Guardians-of-the-Reef-H7UCPc5W15)
 ---
 
-## 8. References
+## 7. References
 
 - Zahed, Hasti. "How Does Streetlighting Impact Night Crime?" [Study](https://newsletter.economics.utoronto.ca/wp-content/uploads/How-Does-Streetlighting-Impact-Night-Crime-1.pdf)
 - Example Crime Data Sources:
