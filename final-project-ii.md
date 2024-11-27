@@ -136,22 +136,9 @@ The moodboard includes:
 
 The updated project repository includes:
 - **Markdown File:** `final_project_part2.md` with all required sections.
-- **Images Folder:** Contains all draft visualizations (e.g., `images/line_chart.png`).
-- **Shorthand Draft Link:** [Add link if applicable]
+- **Shorthand Draft Link:** [Shorthand](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/6S2vRbIyvZ#section-Guardians-of-the-Reef-H7UCPc5W15)]
 
 Navigation allows users to move between project components, including Part I and Part II.
-
----
-
-## Rubric Checklist
-
-| Criteria                  | Deliverable                                    | Status       |
-|---------------------------|-----------------------------------------------|--------------|
-| **Wireframes/Storyboards**| High-fidelity visualizations, clear story     | ✅ Completed |
-| **Data Visualizations**   | Draft visualizations with appropriate elements| ✅ Completed |
-| **GitHub Page**           | Created with navigation and documentation     | ✅ Completed |
-| **User Research Protocol**| Questions, goals, and script provided         | ✅ Completed |
-| **User Research Findings**| Documented feedback and planned improvements  | ✅ Completed |
 
 ---
 
