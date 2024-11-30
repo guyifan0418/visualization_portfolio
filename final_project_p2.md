@@ -11,13 +11,13 @@ The story of this project explores the impact of streetlight installations on cr
 
 ### Data Visualization Approach
 Each data visualization has been created using mock data to illustrate its form and function within the project narrative. Below is the rationale for including these visualizations:
-- **Line Chart:** Captures the temporal trend and pinpoints when the streetlight intervention occurred.
+- **Line Chart:** Captures the changes in crime rates based on time of day.
 - **Heatmap:** Highlights spatial differences in crime density, allowing for a visual comparison of areas before and after intervention.
 - **Buffer Zone Map:** Focuses on micro-level changes in crime around specific streetlight installations.
-- **Choropleth Map:** Incorporates demographic context to address potential confounding variables.
 
 ### Sketches
 The sketches were refined into drafts using Tableau and Matplotlib. Key elements such as titles, annotations, legends, captions, and axis labels were included to ensure clarity and storytelling consistency.
+
 
 ---
 
