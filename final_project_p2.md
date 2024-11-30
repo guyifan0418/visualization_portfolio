@@ -32,9 +32,8 @@ The primary audience includes:
 
 ### Approach to Identifying Representative Individuals
 To ensure diverse perspectives, I conducted interviews with:
-- **Urban Planning Graduate Student (20s):** Represents individuals interested in urban design.
-- **City Official (40s):** Brings expertise in public safety and policy-making.
-- **Data Analyst (30s):** Focuses on storytelling with data visualizations.
+- **MSPPM Student(20s):** Represents individuals interested in urban design and policy.
+- **Data Analyst(30s):** Focuses on storytelling with data visualizations.
 
 ### Interview Script
 The following questions were asked during the interviews:
@@ -50,27 +49,19 @@ The following questions were asked during the interviews:
 
 ### Key Insights and Observations
 - **Clarity of Visualizations:**
-  - The line chart was well-received, but one interviewee suggested adding a label directly on the vertical marker for clarity.
+  - The line chart was well-received, but one interviewee suggested adding reference panels to better signal daytime vs. nighttime.
   - The heatmap was considered visually striking but lacked sufficient context without a legend explaining intensity levels.
 - **Narrative Flow:**
-  - All participants found the narrative logical but suggested moving the demographic context (choropleth map) earlier in the story to set the stage.
+  - All participants found the narrative logical but suggested moving to the conclusion part faster.
 - **Interactivity:**
-  - Two participants recommended adding filters for time and crime type to allow readers to explore the data interactively.
-- **Choropleth Map:**
-  - One participant noted that combining population density and crime rates in a single visualization was slightly confusing. Separating them into two graphs was suggested.
-
-### Key Quotes
-- "The line chart is intuitive but could benefit from more direct labeling on the intervention marker."
-- "The heatmap is great at showing spatial differences, but I wish I could filter it by crime type."
-- "Demographic context is essential, but placing it earlier in the story would help frame the problem better."
+  - Two participants recommended embedding the Tableau heatmaps directly in Shorthand to allow readers to explore the data interactively.
 
 ### Planned Changes
 Based on feedback, the following changes will be implemented:
-1. Add a direct label to the intervention marker in the line chart.
-2. Include a legend for the heatmap to clarify the intensity scale.
-3. Separate population density and crime rates in the choropleth map into two visualizations.
-4. Explore adding interactivity to the visualizations in Tableau, such as time and crime type filters.
-5. Adjust the narrative flow to present demographic context earlier in the story.
+1. Add a direct label and reference panel to signal daytime and nighttime in the line chart.
+2. Include annotation for the heatmap to clarify what each intense area demonstrates.
+3. Explore adding interactivity to the visualizations in Tableau, and embed into Shorthand.
+5. Adjust the narrative flow to present conclusion earlier in the story.
 
 ---
 
@@ -78,12 +69,13 @@ Based on feedback, the following changes will be implemented:
 
 ### Revised Narrative Flow
 1. Introduction: Introduce the relationship between streetlights and crime.
-2. Demographic Context: Present choropleth maps to set the stage.
-3. Analysis:
+2. Context: why night crime matters 
    - Line chart showing temporal trends.
+4. Analysis: how installing more streetlights can help
    - Heatmap for spatial changes in crime density.
    - Buffer zone analysis for localized impacts.
-4. Conclusion: Summarize findings and provide recommendations.
+5. Conclusion: Summarize findings and present conclusion.
+6. Future Recommendation and Call to Action
 
 ---
 
@@ -91,7 +83,7 @@ Based on feedback, the following changes will be implemented:
 
 The updated project repository includes:
 - **Markdown File:** `final_project_part2.md` with all required sections.
-- **Shorthand Draft Link:** [Shorthand](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/6S2vRbIyvZ#section-Guardians-of-the-Reef-H7UCPc5W15)
+- **Shorthand Draft Link:** [Shorthand](https://preview.shorthand.com/tIud7JUvdRe4rgV7)
 ---
 
 ## 7. References
