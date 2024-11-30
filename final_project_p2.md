@@ -17,8 +17,8 @@ Each data visualization has been created using mock data to illustrate its form 
 
 ### Sketches
 The sketches were refined into drafts using Tableau. Key elements such as titles, annotations, legends, captions, and axis labels were included to ensure clarity and storytelling consistency.
-![Streetlight Map](streetlight map boston.png)
-![Crime Map](night crime heatmap.png)
+![Streetlight Map](streetlight_map_boston.png)
+![Crime Map](night_crime_heatmap.png)
 
 ---
 
