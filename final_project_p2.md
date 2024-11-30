@@ -16,8 +16,9 @@ Each data visualization has been created using mock data to illustrate its form 
 - **Buffer Zone Map:** Focuses on micro-level changes in crime around specific streetlight installations.
 
 ### Sketches
-The sketches were refined into drafts using Tableau and Matplotlib. Key elements such as titles, annotations, legends, captions, and axis labels were included to ensure clarity and storytelling consistency.
-
+The sketches were refined into drafts using Tableau. Key elements such as titles, annotations, legends, captions, and axis labels were included to ensure clarity and storytelling consistency.
+![Streetlight Map](streetlight map boston.png)
+![Crime Map](night crime heatmap.png)
 
 ---
 
