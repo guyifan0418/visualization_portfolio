@@ -1,4 +1,4 @@
-| [home page](https://guyifan0418.github.io/visualization_portfolio/) | [critique by design](https://guyifan0418.github.io/visualization_portfolio/marvel_box_office) | [final project I](https://guyifan0418.github.io/visualization_portfolio/final_project_yifangu) | [final project II](https://guyifan0418.github.io/visualization_portfolio/final_project_p2) | [final project III]([final-project-part-three](https://guyifan0418.github.io/visualization_portfolio/final_project_p3)) |
+| [home page](https://guyifan0418.github.io/visualization_portfolio/) | [critique by design](https://guyifan0418.github.io/visualization_portfolio/marvel_box_office) | [final project I](https://guyifan0418.github.io/visualization_portfolio/final_project_yifangu) | [final project II](https://guyifan0418.github.io/visualization_portfolio/final_project_p2) | [final project III]([final-project-part-three](https://guyifan0418.github.io/visualization_portfolio/final_project_p3) |
 
 # visualization_portfolio
 Yifan's data visualization portfolio.
