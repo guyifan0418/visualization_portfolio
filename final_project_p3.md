@@ -1,4 +1,4 @@
-| [home page](https://guyifan0418.github.io/visualization_portfolio/) | [critique by design](https://guyifan0418.github.io/visualization_portfolio/marvel_box_office) | [final project I](https://guyifan0418.github.io/visualization_portfolio/final_project_yifangu) | [final project II](https://guyifan0418.github.io/visualization_portfolio/final_project_p2) | [final project III](final-project-part-three) |
+| [home page](https://guyifan0418.github.io/visualization_portfolio/) | [critique by design](https://guyifan0418.github.io/visualization_portfolio/marvel_box_office) | [final project I](https://guyifan0418.github.io/visualization_portfolio/final_project_yifangu) | [final project II](https://guyifan0418.github.io/visualization_portfolio/final_project_p2) 
 
 # The final data story
 [**Streetlights: The secret to reducing crimes**](https://carnegiemellon.shorthandstories.com/streetlights/index.html)  
@@ -8,17 +8,18 @@ Explore the data-driven story on how streetlights influence public safety, focus
 ---
 
 # Changes made since Part II
-Since completing Part II, I made several adjustments to improve the focus and clarity of the story. Based on user feedback, I narrowed the scope to emphasize underserved neighborhoods where streetlight coverage is sparse. This involved refining the heatmaps to highlight gaps and overlaps between crime hotspots and lighting infrastructure.
+Since completing Part II, I made several adjustments to improve the focus and clarity of the story. Based on user feedback, I focused on providing more context to let my audience learn more about why this issue matters and help me better navigate through charts. This involved refining the heatmaps to highlight gaps and overlaps between crime hotspots and lighting infrastructure. I also included annotations and reference panels on the line chart of night crimes to help signal nighttime and daytime.
 
 Additionally, I reorganized the storyline to flow more logically:
 - **Section 1:** Focuses on the critical issue of nighttime crime and its impact on communities.
 - **Section 2:** Explores how streetlights mitigate crime, with real-world examples and data-backed insights.
-- **Section 3:** Concludes with actionable recommendations for urban planners and policymakers.
+- **Section 3:** Concludes with actionable recommendations for local citizens, urban planners and policymakers.
 
 I also enhanced the visuals by:
 - Adding clearer annotations to the heatmaps.
+- Adding a light map comparison of the US to show how much it has progressed since the 1950s.
 - Using a consistent color scheme for readability (yellow for streetlights, red for crime).
-- Ensuring that all visuals are interactive and responsive for desktop and mobile users.
+- Ensuring that all visuals are interactive and responsive.
 
 ---
 
@@ -47,17 +48,20 @@ A standout learning moment was understanding how to balance data complexity with
 
 ## References
 All references are detailed in the Shorthand story, including:
+- Crime data from [Office of Juvenile Justice and Delinquency Prevention](https://www.ojjdp.gov/ojstatbb//offenders/qa03401.asp).
 - Crime data from [Boston Open Data Portal](https://data.boston.gov/).
 - Streetlight data from [City of Boston GIS Data Hub](https://hub-boston.opendata.arcgis.com/).
-- Research studies on streetlights and crime prevention, such as the University of Toronto’s report on lighting and safety.
+- Research studies on streetlights and crime prevention from [Donovan, C., & Halberstadt, V. (2018). How does streetlighting impact night crime? University of Toronto Department of Economics](https://newsletter.economics.utoronto.ca/wp-content/uploads/How-Does-Streetlighting-Impact-Night-Crime-1.pdf)
+-  Streetlight map from [National Park Service. (n.d.).](https://www.nps.gov/subjects/nightskies/growth.htm)
+-  History of Streetlight form [Lamplight Decorative Lighting. (n.d.)](https://lamplightdecorativelighting.com/history-of-street-lighting/)
 
-No copyrighted materials were used, and all sources are cited properly.
+All pictures and photos featured are from Unsplash and are cited on Shorthand.
 
 ---
 
 # Final thoughts
-This project was an exciting opportunity to combine data analysis with storytelling. While I am proud of the final product, I wish I had more time to explore the impact of additional variables, such as socioeconomic factors, on crime trends. One of the most rewarding aspects was seeing how small design tweaks—like consistent color schemes and annotations—could drastically improve comprehension for the audience.
+This project was an exciting opportunity to combine data analysis with storytelling. I am proud of this project as it addresses an issue that is tightly related to everyone's everyday life. It also shows that a very simple solution can help mitigate a very complex issues. If I had more time, I wish I explored more into the impact of additional variables, such as socioeconomic factors, on crime trends. One of the most rewarding aspects was seeing how small design tweaks—like consistent color schemes and annotations—could drastically improve comprehension for the audience.
 
-Overall, this project underscored the power of data visualization to inform and inspire meaningful change. I’m looking forward to presenting it and hearing feedback from others.
+Overall, this project underscored the power of data visualization to inform and inspire meaningful change. 
 
 ---
